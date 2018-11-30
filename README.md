@@ -1,2 +1,2 @@
 # Hello-world
-First thing to do
+First project with GitHUB just trying to figure out how things are
